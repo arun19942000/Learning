@@ -11,11 +11,9 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-.row second {
-}
 h1 {
   font-weight: bold;
-  color: white;
+  color: ;
   text-align: center;
 }
 p {
@@ -25,7 +23,6 @@ span {
   color: red;
 }
 button {
-  background-color: white;
   color: red;
   border-color: red;
 }
@@ -76,4 +73,13 @@ button {
 .fas {
   background: white;
   color: red;
+  margin-left: 20px;
+}
+.second {
+  background-color: lightblue;
+  padding-top: 50px;
+}
+.third {
+  background-color: gray;
+  padding-top: 50px;
 }
